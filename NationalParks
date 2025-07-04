@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring National Parks</title>
+    <meta name="description" content="A guide to America's most beautiful national parks">
+</head>
+<body>
+    <header>
+        <h1>America's Stunning National Parks</h1>
+        <nav>
+            <ul>
+                <li><a href="#parks">Featured Parks</a></li>
+                <li><a href="#tips">Travel Tips</a></li>
+                <li><a href="#resources">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="parks">
+            <h2>Top 3 Must-Visit Parks</h2>
+            <article>
+                <h3>1. Yosemite National Park</h3>
+                <img src="yosemite-valley.jpg" 
+                     alt="Yosemite Valley with El Capitan rock formation and waterfall" 
+                     width="600" height="400">
+                <p>Famous for its waterfalls, deep valleys, and ancient sequoias.</p>
+                <ul>
+                    <li>Location: California</li>
+                    <li>Established: 1890</li>
+                    <li>Best feature: Half Dome</li>
+                </ul>
+            </article>
+
+            <article>
+                <h3>2. Grand Canyon National Park</h3>
+                <img src="grand-canyon.jpg" 
+                     alt="Panoramic view of Grand Canyon's layered red rock formations" 
+                     width="600" height="400">
+                <p>Home to one of the world's most spectacular geological wonders.</p>
+                <ul>
+                    <li>Location: Arizona</li>
+                    <li>Established: 1919</li>
+                    <li>Best feature: South Rim views</li>
+                </ul>
+            </article>
+
+            <article>
+                <h3>3. Acadia National Park</h3>
+                <img src="acadia-park.jpg" 
+                     alt="Ocean meeting rocky coastline at Acadia National Park at sunrise" 
+                     width="600" height="400">
+                <p>Where mountains meet the Atlantic Ocean along Maine's coast.</p>
+                <ul>
+                    <li>Location: Maine</li>
+                    <li>Established: 1919</li>
+                    <li>Best feature: Cadillac Mountain sunrise</li>
+                </ul>
+            </article>
+        </section>
+
+        <section id="tips">
+            <h2>Essential Travel Tips</h2>
+            <ol>
+                <li>Check park websites for alerts and closures</li>
+                <li>Arrive early to avoid crowds</li>
+                <li>Pack layers - mountain weather changes quickly</li>
+            </ol>
+        </section>
+
+        <section id="resources">
+            <h2>Learn More</h2>
+            <p>Explore official park information at <a href="https://www.nps.gov" target="_blank" rel="noopener">National Park Service</a>.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 National Parks Explorer. All photos courtesy of <a href="https://www.nps.gov" target="_blank" rel="noopener">NPS</a>.</p>
+    </footer>
+</body>
+</html>
